@@ -1,9 +1,11 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.728a8de2.css",
-    "main.js": "/portfolio/static/js/main.46463b9e.js",
+    "main.js": "/portfolio/static/js/main.29f569b4.js",
+    "static/media/store.png": "/portfolio/static/media/store.dab7bad764e7a63d44f0.png",
     "static/media/clinics_app.png": "/portfolio/static/media/clinics_app.6853bbb007b4b56640c8.png",
-    "static/media/CV_Viktoriia_Kravchuk.pdf": "/portfolio/static/media/CV_Viktoriia_Kravchuk.8031ddb88ee367dfac05.pdf",
+    "static/media/game2048.png": "/portfolio/static/media/game2048.902929673498e43f8304.png",
+    "static/media/CV_Viktoriia_Kravchuk.pdf": "/portfolio/static/media/CV_Viktoriia_Kravchuk.578e7203d141f6cdbc45.pdf",
     "static/media/logo.png": "/portfolio/static/media/logo.f86fd9e29b304fb181aa.png",
     "static/media/task_app1.png": "/portfolio/static/media/task_app1.98314161eb6f873ffa8f.png",
     "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -16,10 +18,10 @@
     "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio/index.html",
     "main.728a8de2.css.map": "/portfolio/static/css/main.728a8de2.css.map",
-    "main.46463b9e.js.map": "/portfolio/static/js/main.46463b9e.js.map"
+    "main.29f569b4.js.map": "/portfolio/static/js/main.29f569b4.js.map"
   },
   "entrypoints": [
     "static/css/main.728a8de2.css",
-    "static/js/main.46463b9e.js"
+    "static/js/main.29f569b4.js"
   ]
 }
